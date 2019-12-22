@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://test.github.io/</loc>
+    <loc>https://test.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://test.github.io/authors/admin/_index/</loc>
+    <loc>https://test.github.io/authors/admin/_index/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/</loc>
+    <loc>https://test.github.io/home/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/post/_index/</loc>
+    <loc>https://test.github.io/post/_index/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/publication/_index/</loc>
+    <loc>https://test.github.io/publication/_index/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/talk/_index/</loc>
+    <loc>https://test.github.io/talk/_index/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/slider/</loc>
+    <loc>https://test.github.io/home/slider/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/hero/</loc>
+    <loc>https://test.github.io/home/hero/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/demo/</loc>
+    <loc>https://test.github.io/home/demo/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/about/</loc>
+    <loc>https://test.github.io/home/about/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/skills/</loc>
+    <loc>https://test.github.io/home/skills/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/experience/</loc>
+    <loc>https://test.github.io/home/experience/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/accomplishments/</loc>
+    <loc>https://test.github.io/home/accomplishments/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/posts/</loc>
+    <loc>https://test.github.io/home/posts/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/projects/</loc>
+    <loc>https://test.github.io/home/projects/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/people/</loc>
+    <loc>https://test.github.io/home/people/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/talks/</loc>
+    <loc>https://test.github.io/home/talks/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/featured/</loc>
+    <loc>https://test.github.io/home/featured/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/publications/</loc>
+    <loc>https://test.github.io/home/publications/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/tags/</loc>
+    <loc>https://test.github.io/home/tags/</loc>
   </url>
   
   <url>
-    <loc>http://test.github.io/home/contact/</loc>
+    <loc>https://test.github.io/home/contact/</loc>
   </url>
   
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>http://test.github.io/</link>
+    <link>https://test.github.io/</link>
     <description>Recent content on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://test.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://test.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://test.github.io/authors/admin/_index/</link>
+      <link>https://test.github.io/authors/admin/_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/authors/admin/_index/</guid>
+      <guid>https://test.github.io/authors/admin/_index/</guid>
       <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
@@ -21,55 +21,55 @@
     
     <item>
       <title></title>
-      <link>http://test.github.io/home/</link>
+      <link>https://test.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/</guid>
+      <guid>https://test.github.io/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>http://test.github.io/post/_index/</link>
+      <link>https://test.github.io/post/_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/post/_index/</guid>
+      <guid>https://test.github.io/post/_index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://test.github.io/publication/_index/</link>
+      <link>https://test.github.io/publication/_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/publication/_index/</guid>
+      <guid>https://test.github.io/publication/_index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://test.github.io/talk/_index/</link>
+      <link>https://test.github.io/talk/_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/talk/_index/</guid>
+      <guid>https://test.github.io/talk/_index/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://test.github.io/home/slider/</link>
+      <link>https://test.github.io/home/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/slider/</guid>
+      <guid>https://test.github.io/home/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>http://test.github.io/home/hero/</link>
+      <link>https://test.github.io/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/hero/</guid>
+      <guid>https://test.github.io/home/hero/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Build &lt;strong&gt;Anything&lt;/strong&gt; with Widgets&lt;/p&gt;
@@ -80,10 +80,10 @@
     
     <item>
       <title>Academic Kickstart</title>
-      <link>http://test.github.io/home/demo/</link>
+      <link>https://test.github.io/home/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/demo/</guid>
+      <guid>https://test.github.io/home/demo/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;Academic Kickstart&lt;/strong&gt; template!&lt;/p&gt;
 
 &lt;p&gt;Follow our &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;Getting Started&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/&#34; target=&#34;_blank&#34;&gt;Page Builder&lt;/a&gt; guides to easily personalize the template and then &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34; target=&#34;_blank&#34;&gt;add your own content&lt;/a&gt;.&lt;/p&gt;
@@ -109,64 +109,64 @@
     
     <item>
       <title>Biography</title>
-      <link>http://test.github.io/home/about/</link>
+      <link>https://test.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/about/</guid>
+      <guid>https://test.github.io/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>http://test.github.io/home/skills/</link>
+      <link>https://test.github.io/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/skills/</guid>
+      <guid>https://test.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://test.github.io/home/experience/</link>
+      <link>https://test.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/experience/</guid>
+      <guid>https://test.github.io/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>http://test.github.io/home/accomplishments/</link>
+      <link>https://test.github.io/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/accomplishments/</guid>
+      <guid>https://test.github.io/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://test.github.io/home/posts/</link>
+      <link>https://test.github.io/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/posts/</guid>
+      <guid>https://test.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://test.github.io/home/projects/</link>
+      <link>https://test.github.io/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/projects/</guid>
+      <guid>https://test.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://test.github.io/home/people/</link>
+      <link>https://test.github.io/home/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://test.github.io/home/people/</guid>
+      <guid>https://test.github.io/home/people/</guid>
       <description></description>
     </item>
     
